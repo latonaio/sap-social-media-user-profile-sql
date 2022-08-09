@@ -11,7 +11,7 @@ https://api.sap.com/api/socialmediauserprofile/overview
 ## sqlの設定ファイル
 sap-chat-activity-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
-* sap-social-media-user-profile-sql-social-media-user-profile-collection-data.sql (SAP ソーシャルメディアユーザープロファイル - ソーシャルメディアユーザープロファイルデータ )
+* sap-social-media-user-profile-sql-user-profile-collection-data.sql (SAP ソーシャルメディアユーザープロファイル - ユーザープロファイルデータ )
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
